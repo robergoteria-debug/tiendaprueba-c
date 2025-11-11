@@ -4,7 +4,7 @@
 #include <time.h>
 #include "productos.h"
 #include "usuarios.h"
-
+// actualizacion
 #define RUTA_PRODUCTOS "producto.txt"
 #define RUTA_VENTAS "ventas.txt"
 #define RUTA_VENDEDORES "vendedores.txt"
