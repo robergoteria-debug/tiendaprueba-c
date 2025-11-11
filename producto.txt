@@ -1,0 +1,2 @@
+P001,Mouse USB,50,5.00,9.99
+P002,Teclado mecánico,20,20.00,39.99
